@@ -1,0 +1,14 @@
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.GeneratedMSBuildEditorConfig.editorconfig
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.AssemblyInfoInputs.cache
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.AssemblyInfo.cs
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.csproj.CoreCompileInputs.cache
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\bin\Debug\net8.0\ExercicioHerança.exe
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\bin\Debug\net8.0\ExercicioHerança.deps.json
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\bin\Debug\net8.0\ExercicioHerança.runtimeconfig.json
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\bin\Debug\net8.0\ExercicioHerança.dll
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\bin\Debug\net8.0\ExercicioHerança.pdb
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.dll
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\refint\ExercicioHerança.dll
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.pdb
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ExercicioHerança.genruntimeconfig.cache
+C:\Gabriel C#\Projetos Curso\ExercicioHerança\obj\Debug\net8.0\ref\ExercicioHerança.dll
